@@ -14,6 +14,8 @@
 
 - 🎬 **Basic Movie Recommender** – A simple content-based filtering system built using Python and pandas that suggests movies based on genre and user preferences.
 
+- 💰 **Expense Tracker** – A full-stack MERN application with JWT authentication and role-based access, featuring real-time income/expense charts (Chart.js), Excel export, and responsive UI with Tailwind CSS.
+
 - 🏥 **Elderly Healthcare Management System** – An academic project using Oracle Live SQL and PL/SQL for managing elderly patients’ records, doctor information, and appointments.
 
 - ...and some more.
